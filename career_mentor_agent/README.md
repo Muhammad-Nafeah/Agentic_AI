@@ -1,4 +1,4 @@
-f# 💼 Career Mentor Agent
+# 💼 Career Mentor Agent
 
 An *AI Chat-Based App* that helps students explore career paths using a multi-agent system powered by the **OpenAI Agent SDK**.
 
