@@ -1,6 +1,6 @@
 # 🌍 AI Travel Designer Agent
 
-A terminal-based, multi-agent Python application that plans full travel experiences by coordinating between specialized agents:
+An *AI Chat-Based App* that empowers multi-agent to plans full travel experiences by coordinating between specialized agents:
 
 - **DestinationAgent** – Recommends destinations based on mood or interests  
 - **BookingAgent** – Simulates flight and hotel booking via `get_flights()` & `suggest_hotels()` tools  
