@@ -1,6 +1,6 @@
 # 🎲 Game Master Agent (Fantasy Adventure CLI)
 
-A terminal-based, multi-agent fantasy adventure game built with the OpenAI Agent SDK. Players progress through an interactive story, enter combat, and collect rewards—all orchestrated by specialized AI agents.
+An *AI Chat-Based App* that empowers multi-agent fantasy adventure game built with Chainlitand  the OpenAI Agent SDK. Players progress through an interactive story, enter combat, and collect rewards—all orchestrated by specialized AI agents.
 
 ---
 
